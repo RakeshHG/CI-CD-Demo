@@ -1,0 +1,24 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "description": "Skill Lab CI/CD Demo (Day 4)",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RakeshHG/CI-CD-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RakeshHG/CI-CD-Demo/issues"
+  },
+  "homepage": "https://github.com/RakeshHG/CI-CD-Demo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
